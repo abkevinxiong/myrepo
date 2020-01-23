@@ -6,3 +6,5 @@ new project, github first, then Rstudio
 "Second line added from GitHub"
 "Second line added from RStudio"
 "third local line added"
+
+"4th line added from local"
