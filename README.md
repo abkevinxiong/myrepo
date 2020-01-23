@@ -10,3 +10,5 @@ new project, github first, then Rstudio
 "4th line added from local"
 
 "5th line added from local"
+
+"hi from remote"
